@@ -1,0 +1,6 @@
+﻿  Card.cpp
+  Player.cpp
+  Generating Code...
+  euchre.cpp
+C:\Users\njfls\Documents\eecs280\p3-euchre\euchre.cpp(321,22): error C2440: 'initializing': cannot convert from 'int **' to 'int *'
+C:\Users\njfls\Documents\eecs280\p3-euchre\euchre.cpp(321,11): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
